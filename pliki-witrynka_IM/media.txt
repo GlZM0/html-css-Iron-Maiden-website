@@ -1,0 +1,6 @@
+MEDIA - element menu
+
+
+Utworzyæ baner animowany w formacie gif o wymiarach 750 x 100 pikseli, stanowi¹cy odnoœnik do adresu
+
+http://www.eventim.pl/tickets.html?fun=erdetail&doc=erdetaila&includeOnlybookable=true&sort_by=event_datum&erid=1510839&affiliate=APL&xtor=SEC-303030476-GOO-[Iron_Maiden]-[96609170609]-S-[%2Bkoncerty%20%2Biron%20%2Bmaiden]

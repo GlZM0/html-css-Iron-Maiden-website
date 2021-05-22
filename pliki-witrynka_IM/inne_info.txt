@@ -1,0 +1,2 @@
+Grafikê bbb.jpg u¿yj jako t³o witryny w charakterze powtarzaj¹cego siê nieruchomego wzoru.
+Plik dŸwiêkowy Hallowed_Be_Thy_Name.mid u¿yj jako t³o dŸwiêkowe dla strony startowej (index.html) odgrywanej w sposób ciag³y - tzw. "loop".

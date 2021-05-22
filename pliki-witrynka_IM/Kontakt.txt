@@ -1,0 +1,16 @@
+KONTAKT - element menu
+
+Zawiera listê w artykule z pozycjami (odsy³aczami do stron):
+
+1.Koncerty, -> http://ironmaiden.com/tours/the-book-of-souls-world-tour---2016
+2.Zakup p³yt i gad¿etów -> http://ironmaiden.com/online-shop
+3.Fanclub zespo³u -> http://ironmaiden.com/fan-club
+
+Pole adres e-mail nadawcy
+
+Pole tekstowe do napisania wiadomoœci
+
+Przyciski RESET (dzia³aj¹cy) i WYŒLIJ (nie dzia³aj¹cy)
+
+
+
